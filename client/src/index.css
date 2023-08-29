@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+span.tw-connected-wallet__address.css-1k4oq5h{
+    color:white;
+}
